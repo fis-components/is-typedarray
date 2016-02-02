@@ -1,0 +1,10 @@
+{
+    "name": "is-typedarray",
+    "description": "Detect whether or not an object is a Typed Array",
+    "repos": "https://github.com/hughsk/is-typedarray.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
